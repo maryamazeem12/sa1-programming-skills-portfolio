@@ -5,4 +5,4 @@ Information = {'name' : 'Maryam '  ,
            'age' : '18'}
 
 #Print the values on separate lines 
-print (Information["name"], Information["hometown"], Information["age"],sep="\n")
+print (Information["name"], Information["hometown"], Information["age"],sep="\n") 
