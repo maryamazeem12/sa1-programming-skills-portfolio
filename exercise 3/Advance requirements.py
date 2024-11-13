@@ -3,7 +3,7 @@
 #Asking the user to enter their full name (first and last name )
 full_name = input("Enter your full name:")
 
-#Asking the user to enter their hometown
+#Asking the user to enter their hometown 
 user_hometown = input("Enter your hometown:")
 
 #Asking the user to enter their age
