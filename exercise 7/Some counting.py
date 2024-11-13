@@ -9,7 +9,7 @@ for i in range(0,51):   #count from 0 to 50
 print()    #print a blank line to seperate sections to get better output flow
 
 
-# 2. loop that counts down from 50 to 1 in decrements of 1.
+# 2. loop that counts down from 50 to 1 in decrements of 1. 
 for i in range(50,-1,-1):  #count from 50 to 0
     print(i,end=", " if i != 0 else "\n")
 
