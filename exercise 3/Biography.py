@@ -1,5 +1,5 @@
 1.# Store the information in dictionary
-Information = {'name' : 'Maryam '  , 
+Information = {'name' : 'Maryam '  ,  
            'hometown' : 'karachi' ,
            'age' : '18'}
 
