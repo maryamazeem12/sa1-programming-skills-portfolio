@@ -13,7 +13,7 @@ if capital.lower () == "paris" :
 #print the message if user answer is incorrect
 else :
     print("that is the wrong answer")
-
+ 
 
 
 
