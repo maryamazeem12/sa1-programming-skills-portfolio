@@ -22,7 +22,7 @@ month = int(input("Enter the month number between (1-12): "))
 
 #3. Check if the input month number is valid
 
-#Check and Output: Use an if-else statement to check if the input is valid and print the number of days in the corresponding month.
+#Check and Output: Use an if-else statement to check if the input is valid and print the number of days in the corresponding month. 
 
 # print the number of days in each month if input is valid
 if 1 <= month <= 12:
