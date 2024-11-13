@@ -1,6 +1,3 @@
-#In this exercise, you’ll create a program that stores and prints your name, home-town, and age to the console using a Python dictionary.
-
-
 1.# Store the information in dictionary
 Information = {'name' : 'Maryam '  , 
            'hometown' : 'karachi' ,
@@ -9,4 +6,4 @@ Information = {'name' : 'Maryam '  ,
 
 
 #Print the values on separate lines 
-print (Information["name"], Information["hometown"], Information["age"],sep="\n")
+print (Information["name"], Information["hometown"], Information["age"],sep="\n") 

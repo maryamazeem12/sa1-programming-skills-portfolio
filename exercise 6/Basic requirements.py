@@ -4,7 +4,7 @@
 #correct password
 correct_password = "25946"
 
-# Step 2: Use a while loop to repeatedly ask the user for the password until the correct one is entered.
+# Step 2: Use a while loop to repeatedly ask the user for the password until the correct one is entered. 
 
 #The while loop will continue to run until the user enter the correct password
 while True:
