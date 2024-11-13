@@ -10,3 +10,4 @@ word3 = "Cool"
 # The variables are combined with spaces in between using string concatenation
 # This will print the phrase 'Coding is cool'as the output
 print(word1 + " " + word2 + " " + word3)
+  
