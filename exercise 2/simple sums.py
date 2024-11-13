@@ -14,4 +14,4 @@ furqan = int(10)
 sum =  ahmed + furqan 
 
 #step4 print the sum
-print(sum)
+print(sum)  
