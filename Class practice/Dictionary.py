@@ -14,9 +14,9 @@ print (dictionary['fruit'])
 dictionary = {'color' : 'red' , 'fruit' : 'apple' , 'place' : 'UAE'}
 print (dictionary['place'])
 
-dictionary = { 'name' : 'maryam' , 'age' : '18' }
-print (dictionary, 'name' (dictionary))
-       
+dictionary = { 'name': 'maryam', 'age': '18' }
+print(dictionary, 'name:', dictionary['name'])
+
 
 ## Returning a dictionary with a single value
 
