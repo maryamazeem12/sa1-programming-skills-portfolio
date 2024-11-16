@@ -6,7 +6,7 @@ Information = {'name' : 'Maryam '  ,
 
 #print the values on seperate lines
 print (Information["name"],
-       Information["hometown"],
+       Information["hometown"], 
        Information["age"],
        sep="\n")  
 
