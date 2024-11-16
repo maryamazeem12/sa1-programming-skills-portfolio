@@ -2,7 +2,7 @@
 
 #using the nested decsion structure to determine the capital of france
 
-
+ 
 #step1 taking the input from the user
 capital= (input("what is the capital of france?"))
 
