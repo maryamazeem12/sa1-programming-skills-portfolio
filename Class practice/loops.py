@@ -7,7 +7,7 @@ while i < 10:
 marks = 10
 while marks <= 15:
     print("Count is:", marks)
-    marks += 1
+    marks += 1 
 
 
 #This loop will break the number chain and print 1 2 3 instead of 1-6
