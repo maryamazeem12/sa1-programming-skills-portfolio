@@ -1,6 +1,6 @@
 # A dictionary is a object that stores a collection of data which consists of a key and a value
 
-# The format for creating a dictionary : dictionary = {key1: val1, key2:val2}.
+# The format for creating a dictionary : dictionary = {key1: val1, key2:val2}. 
 
 
 # To add and place value in the dictionary
