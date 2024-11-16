@@ -8,5 +8,5 @@ Information = {'name' : 'Maryam '  ,
 print (Information["name"],
        Information["hometown"],
        Information["age"],
-       sep="\n")
+       sep="\n")  
 
