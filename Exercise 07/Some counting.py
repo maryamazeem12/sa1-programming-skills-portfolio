@@ -2,7 +2,7 @@
 
 
 # 1. loop that counts up from 0 to 50 in increments of 1.
-for i in range(0,51):   #count from 0 to 50
+for i in range(0,51):   #count from 0 to 50 
     print(i,end="," if i !=50 else "\n")  #print the loop in the same line,each number seperated by comma,and no comma after the last number.
 
 
