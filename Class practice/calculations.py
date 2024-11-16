@@ -1,7 +1,7 @@
 #performing  calculations through operators
 
 print (7+8)
-print (20-5)
+print (20-5) 
 print (4*8)
 #for floating
 print (20/3) 
