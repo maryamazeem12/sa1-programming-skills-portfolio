@@ -4,7 +4,7 @@
 def hello():
     print("hello")
 
- 
+
 #This will call the hello() function to print the message(hello)
 def main ():
     hello()
