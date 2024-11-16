@@ -4,7 +4,7 @@
 
 
 # To add and place value in the dictionary
- 
+  
 dictionary = {'color' : 'red' , 'fruit' : 'apple' , 'place' : 'UAE'}
 print (dictionary['color'])
 
