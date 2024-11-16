@@ -5,7 +5,7 @@ print(message)
 #string concat through print statement
 print('today was asnas birthday '+ 'she gave us treat ' + '3rd october. ')
 
-#string concat through diff variables
+#string concat through diff variables 
 a = "karachi"
 b = "street of lights"
 c = a + " " + b
