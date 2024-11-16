@@ -3,7 +3,7 @@
 
 
 # Initializing the name list
-name_list2 = ["jake","zac","ion","ron","sam","dave"]
+name_list2 = ["jake","zac","ion","ron","sam","dave"] 
 
 # Asking the user to enter the name
 search_name = input("Which name do you want to search for? ")
