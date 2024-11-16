@@ -6,7 +6,7 @@ def print_name():
     print (name)
 
 def print_name_2():
-    name_2= "aneeka"
+    name_2= "aneeka" 
     print (name_2)
 
 print_name()
