@@ -2,7 +2,7 @@
 first_name = input ("Enter your name")
 print(first_name)
 
-last_name = input ("Enter your name")
+last_name = input ("Enter your name") 
 print(last_name)
 
 #To get input from user (age)
