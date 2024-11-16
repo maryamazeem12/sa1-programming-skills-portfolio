@@ -33,7 +33,7 @@ if capital.lower () == "sofia" :
 else :
     print(f"WRONG\nThe correct answer is sofia.")
     
-
+ 
 
 #using nested decision structure to determine the capital of (GERMANY)
 #get input from user 
