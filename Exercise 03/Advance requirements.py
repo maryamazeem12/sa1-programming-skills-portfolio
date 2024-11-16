@@ -30,5 +30,5 @@ print(f"Hometown: {user_hometown}")  #print the hometown entered by user
 
 if age is not None :
     print(f"Age: {age}")
-else:
+else: 
     print("Age: Invalid age") 
