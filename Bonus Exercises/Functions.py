@@ -6,7 +6,7 @@
 def favorite_book(title) :   #title is the parameter
     print(f"One of my favorite book is {title}") 
 
-
+ 
 #print a message telling your favorite book
 book = " Alice in Wonderland."
 #call the fucntion
