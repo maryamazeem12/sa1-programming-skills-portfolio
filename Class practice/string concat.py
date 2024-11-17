@@ -2,7 +2,7 @@
 message = "maryam " + "azeem"
 print(message)
 
-#string concat through print statement
+#string concat through print statement 
 print('today was asnas birthday '+ 'she gave us treat ' + '3rd october. ')
 
 #string concat through diff variables 
