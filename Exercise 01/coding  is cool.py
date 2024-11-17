@@ -1,3 +1,6 @@
+#Fill in the blanks in the Python code below to output the phrase “Coding is Cool” to the console using variables and string concatenation.
+
+
 # Assign word1 to the first word
 word1 = "Coding" 
 
