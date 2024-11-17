@@ -4,4 +4,4 @@
 friend_names = ["aneeka","asna","farah","sana","aisha","nehdia"]
 
 #printing each person's names one at a time
-print(*friend_names, sep='\n')
+print(*friend_names, sep='\n') 
