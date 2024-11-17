@@ -1,10 +1,10 @@
 # Homogeneous List / Python Supports  Hetrogeneous List other than C , Java 
 names =["Maryam" , "Bathspa" , "Code Lab 1" ]
-print(names)
+print(names) 
 
 
 
-#  Hetrogeneous List
+#  Hetrogeneous List 
 Student =["Maryam azeem" , " 297" , "8.65"]
 print(Student)
 

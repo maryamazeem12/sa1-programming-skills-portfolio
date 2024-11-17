@@ -1,4 +1,4 @@
-
+#Write a program that simulates a password entry system. The correct password is defined as 12345. The program should keep asking the user to enter password until they provide the correct one.
 # Step 1: Define the correct password
 
 #correct password

@@ -3,7 +3,7 @@ a = 40
 b = 200
 if b > a:
     print("a is greater than b")
-else:
+else: 
     print("b is greater than a")
 
 

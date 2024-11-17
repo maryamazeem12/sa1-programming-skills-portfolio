@@ -2,7 +2,7 @@
 
 #using the nested decsion structure to determine the capital of france
 
- 
+
 #step1 taking the input from the user
 capital= (input("what is the capital of france?"))
 
@@ -10,7 +10,7 @@ capital= (input("what is the capital of france?"))
 if capital.lower () == "paris" :
     
 #print the message if user answer is correct
-    print("Right answer")
+    print("Right answer,Good job")
 
 #print the message if user answer is incorrect
 else:
