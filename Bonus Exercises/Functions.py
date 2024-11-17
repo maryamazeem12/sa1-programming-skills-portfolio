@@ -13,21 +13,3 @@ book = " Alice in Wonderland."
 favorite_book(book)    #book title is the arguemnt in the funtion 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-def favorite_book(title):   # title is the parameter
-    print(f"One of my favorite books is {title}.")
-
-# Define the message
-message = "Alice in Wonderland"
