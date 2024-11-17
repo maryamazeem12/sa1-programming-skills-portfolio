@@ -4,7 +4,7 @@
 
 
 #Here is the info of a person stored in the dictionary
-friend_info = {'first_name': 'Aisha' ,
+friend_info = {'first_name': 'Aisha' , 
                  'last_name' : 'anwar' ,
                  'age' : '19' ,
                  'city' : 'ajman' 
