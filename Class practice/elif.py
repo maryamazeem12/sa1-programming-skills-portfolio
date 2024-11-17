@@ -5,7 +5,7 @@ if b > a:
     print("a is greater than b")
 else: 
     print("b is greater than a")
-
+ 
 
 a = 25
 b = 25
