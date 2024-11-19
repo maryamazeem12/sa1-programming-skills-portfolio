@@ -3,7 +3,7 @@
 def main():
 #asking user to enter a number
       number = int(input("enter the number:"))
-      if number & 1 == 0: 
+      if number & 1 == 0:  #check if the number is even or odd
  #If its a even number print (Even) 
             print("Its a even number")
       else:
