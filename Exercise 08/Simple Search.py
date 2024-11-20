@@ -4,7 +4,7 @@
 
 #Initializing the name list
 name_list = ("jake","zac","ian","ron", "sam","dave")
-
+ 
 #searching sam"s name in the list
 if "sam" in name_list:
     print("Found")
