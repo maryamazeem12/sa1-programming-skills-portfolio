@@ -1,6 +1,6 @@
 #1. Create a Dictionary: Define a dictionary where the keys are month numbers and the values are the number of days in those months.
 
-#Dictionary of number of days in each month.
+#Dictionary of number of days in each month. 
 days_in_month = {1: 31,  # January #month1 #31days
     2: 28,  # February     #month2 #28days
     3: 31,  # March        #month3 #31days 
