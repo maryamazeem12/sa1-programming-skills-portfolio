@@ -17,19 +17,24 @@ days_in_month = {1: 31,  # January #month1 #31days
 }
 
 
-# user will input the month number
+# ask user to enter the month number
 month = int(input("Enter the month number between (1-12): "))
 
-# user will input the year
+# ask user to enter the year number
 year = int(input("Enter the year number: "))
 
 #the month number should be in between 1-12
 if 1 <= month <= 12:
 
 #If february is in leap year it will have 29 days,if february is in non-leap year it will have 28 days.
-    if month == 2 and ( (year % 400 == 0)):     #leapyear=29days #non-leapyear=28days
-        print("February has 29 days in", year)
+    if month == 2:
+        if (year % 400 == 0) :   #leapyear =29days #non-leapyear = 28 days
+            print(f"February has 29 days in {year}")
+        else:
+            print(f"February has 28 days in {year}")
     else:
         print(f"{days_in_month[month]} days in month {month} of {year}")
 else:
-    print("Invalid month! Please enter a number between 1 and 12.")
+    print("Invalid month! please enter a month number between 1 and 12.")
+
+

@@ -8,7 +8,7 @@ print("i am studying cc at bsu")
 print("my favourite activity is to watch phone") 
 print("i love watching movies")
 print("i love cats more than humans")
-print("i like taking photos of everthing")
+print("i like taking photos of everthing") 
 print("i have a mom, dad, and 3 siblings")
 print("yeah thats it,bye")
 

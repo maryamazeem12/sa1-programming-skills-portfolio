@@ -1,3 +1,5 @@
+#you will create and work with integer variables, perform arithmetic operations, and print the result to the console.
+
 #step1 declare a variable and initialize it with the integer value 8.
 
 #Ahmed has 8 cats

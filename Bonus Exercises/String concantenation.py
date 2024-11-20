@@ -7,7 +7,7 @@ a = "she"
 b = "is"
 
 #3rd string
-c = "pretty"
+c = "pretty" 
 
 #printing the output as one string
 d = a + " " + b + " " + c

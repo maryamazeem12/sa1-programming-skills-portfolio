@@ -8,7 +8,7 @@ alien_color = "red"
 
 #using if statement to test the color of the alien is red
 if alien_color.lower () == "red" :
-    
+     
  #If the color of the alien is red print the message
     print("Wow, you have just earned 5 points")
 

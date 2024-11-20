@@ -7,7 +7,7 @@ while True:
     #ask the user to enter the toppings of pizza
     pizza_topping = input("enter the toppings you like :")
 
-
+ 
 #if the user doesnt wants to add more toping and wants to quit,so
     if pizza_topping.lower () == "quit":
         print("you have a good taste,enjoy your pizza")

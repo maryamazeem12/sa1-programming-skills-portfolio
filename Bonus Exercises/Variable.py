@@ -8,7 +8,7 @@ print(message)
 
 #Assigning a new message to the variable
 new_message = "i am maryam"
- 
+  
 #Now,print the new message
 print(new_message)
 

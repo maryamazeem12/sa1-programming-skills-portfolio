@@ -5,7 +5,7 @@ print(first_name)
 last_name = input ("Enter your name") 
 print(last_name)
 
-#To get input from user (age)
+#To get input from user (age) 
 Age = int(input ("How old are you? "))
 print(Age)
 
