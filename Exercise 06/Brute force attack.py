@@ -2,7 +2,7 @@
 # Step 1: Define the correct password
 
 #correct password
-correct_password = "25946"
+correct_password = "12345"
 
 # Step 2: Use a while loop to repeatedly ask the user for the password until the correct one is entered.  
 
